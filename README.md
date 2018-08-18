@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="http://laravel-admin.org/docs">Documentation</a> | 
-<a href="http://laravel-admin.org/docs/#/zh/">中文文档</a> | 
+<a href="http://laravel-admin.org/docs/#/zh/">中文文档v2</a> | 
 <a href="http://laravel-admin.org/demo">Demo</a> | 
 <a href="https://github.com/z-song/laravel-admin.org">Demo source code</a> | 
 <a href="https://github.com/laravel-admin-extensions">Extensions</a>
